@@ -1,1 +1,3 @@
-alert("hello world")
+alert("hello world");
+document.write("hello world");
+document.querySelector('#cc').innerHTML="hello "
